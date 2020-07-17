@@ -5,3 +5,5 @@ comit
 aa
 
 rm
+
+git stasus
