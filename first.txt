@@ -2,3 +2,6 @@ git‚Ì—ûK
 
 aa
 comit
+aa
+
+rm
